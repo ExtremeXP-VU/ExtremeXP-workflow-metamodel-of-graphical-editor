@@ -1,1 +1,1 @@
-# extremexp-workflow-metamodel
+# extremexp-workflow-metamodel graphical-editor-version
